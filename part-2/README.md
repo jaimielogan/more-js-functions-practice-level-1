@@ -1,7 +1,8 @@
 # JavaScript Functions - part 2
 
-1. Create a JavaScript file
-1. Solve each of the given problems, creating a function that returns the value. Then, use node to output the result of the function to the console. (Be sure and _return_ values in your functions, and then console.log the _invoking_ of the function - see below for example)
+1. Write your solutions in `part-2.js`
+1. Solve each of the given problems, creating a function that _returns_ the value. Then, use node to output the result of the function to the console. (Be sure and _return_ values in your functions, and then console.log the _invoking_ of the function - see below for example)
+1.
 
 ### Example
 
