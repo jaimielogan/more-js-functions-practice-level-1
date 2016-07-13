@@ -7,12 +7,7 @@ var sum = function(a,b){
 
 // Checks if numbers are equal
 var isEqual = function(a,b){
-  if (a===b){
-    console.log(true);
-  }
-  else {
-    console.log(false);
-  }
+  return a === b;
 };
 
 // Returns discount amount given total amount and discount percentage (0-100)
@@ -46,12 +41,7 @@ var evenNumbers = function(){
 
 // Takes two arguments and returns true if the 1st is divisble by the second one
 var isDivisible = function(a,b){
-  if(a % b === 0){
-    console.log(true);
-  }
-  else{
-    console.log(false);
-  }
+  return a % b === 0; 
 };
 
 //Return Odd Numbers 0-40 if random <40, or 40-100 if random >40
