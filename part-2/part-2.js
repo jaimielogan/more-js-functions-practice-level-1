@@ -63,7 +63,7 @@ longestWordNoPunc("hello! hi heyyyyy!");
 //Define a function called factorial that takes a random number as an argument and then returns the factorial of that given number.
 var factorial = function(){
 	var rand = Math.round(Math.random()*10);
-	console.log(rand);
+	console.log("The Factorial of " + rand + " is:");
 	var fact = rand;
 	if(rand === 0){
 		console.log(1);
